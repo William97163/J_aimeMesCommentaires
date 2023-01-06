@@ -1,0 +1,41 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+  \bigletter A
+  \item \spxentry{add\_new\_employees.main}
+    \subitem \spxentry{module}, \hyperpage{2}
+
+  \indexspace
+  \bigletter B
+  \item \spxentry{btn\_clicked()}\spxextra{dans le module add\_new\_employees.main}, \hyperpage{2}
+
+  \indexspace
+  \bigletter C
+  \item \spxentry{contexte.contexte}
+    \subitem \spxentry{module}, \hyperpage{1}
+
+  \indexspace
+  \bigletter D
+  \item \spxentry{datas.explications}
+    \subitem \spxentry{module}, \hyperpage{1}
+
+  \indexspace
+  \bigletter E
+  \item \spxentry{error\_popup()}\spxextra{dans le module add\_new\_employees.main}, \hyperpage{2}
+
+  \indexspace
+  \bigletter M
+  \item \spxentry{module}
+    \subitem \spxentry{add\_new\_employees.main}, \hyperpage{2}
+    \subitem \spxentry{contexte.contexte}, \hyperpage{1}
+    \subitem \spxentry{datas.explications}, \hyperpage{1}
+
+  \indexspace
+  \bigletter V
+  \item \spxentry{validate\_popup()}\spxextra{dans le module add\_new\_employees.main}, 
+		\hyperpage{2}
+
+\end{sphinxtheindex}
