@@ -11,4 +11,4 @@ Ce brief a pour but de créer une documentation d'un projet precedement fait
 
 - sphinx
 
-Pour accéder à la documentation cliquez sur le lien suivant : https://william97163.github.io/ViveLesCollegues/
+Pour accéder à la documentation cliquez sur le lien suivant : https://william97163.github.io/J_aimeMesCommentaires/
