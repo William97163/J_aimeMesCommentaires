@@ -4,18 +4,10 @@
    contain the root `toctree` directive.
 
 Bienvenue sur la page de documentation du projet "viveLesCollègues" !
-================================
+=====================================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contenu :
 
    modules
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

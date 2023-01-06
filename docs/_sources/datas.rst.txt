@@ -2,12 +2,12 @@ Données
 =============
 
 Fichier de départ
-----------
+-----------------
 
 Le tableau ci-dessous correspond au fichier csv dont vous disposez :
 
 +--------------+----------+-----------------+---------------+
-|    nom       | Prénom   | Date d'embauche |     Poste     |
+|    Nom       |  Prénom  | Date d'embauche |     Poste     |
 +--------------+----------+-----------------+---------------+            
 |    Roberts   |  Julia   |   10/10/2022    |    Patronne   |  
 +--------------+----------+-----------------+---------------+   
