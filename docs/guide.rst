@@ -27,8 +27,8 @@ Pour finir appuyer sur "Create merge request"
 Et voila, vous n'avez plus qu'à attendre la validation du maintainer !!
 
 
-liste de librairies à installer :
----------------------------------
+Liste de librairies à installer 
+-------------------------------
 
 1. Pandas
 
