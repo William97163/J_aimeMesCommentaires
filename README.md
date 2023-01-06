@@ -10,3 +10,5 @@ Ce brief a pour but de créer une documentation d'un projet precedement fait
 ## librairies à installer 
 
 - sphinx
+
+Pour accéder à la documentation cliquez sur le lien suivant : https://william97163.github.io/ViveLesCollegues/
